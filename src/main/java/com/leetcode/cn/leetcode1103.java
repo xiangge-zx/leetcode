@@ -20,7 +20,7 @@ public class leetcode1103 {
     // 题目中的方法
     public int[] distributeCandies(int candies, int num_people) {
         int[] people= new int[num_people];
-        int cycle = 0;
+        int cycle = 0;   
         while (candies>0){
         for(int i = 1;i<num_people+1;i++){
             if (candies-(i+cycle*num_people)>0){
