@@ -1,4 +1,4 @@
-package com.huawei.od.array;
+package com.ti.huawei.od.array;
 
 import java.util.*;
 

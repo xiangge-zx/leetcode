@@ -1,4 +1,4 @@
-package com.huawei.od.array;
+package com.ti.huawei.od.array;
 
 /**
  * JZ4 二维数组中的查找

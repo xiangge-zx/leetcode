@@ -1,4 +1,4 @@
-package com.huawei.od.string;
+package com.od.string;
 
 import java.util.*;
 

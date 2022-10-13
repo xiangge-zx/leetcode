@@ -1,4 +1,4 @@
-package array;
+package com.offer.array;
 
 public class offer11 {
     public static void main(String[] args) {

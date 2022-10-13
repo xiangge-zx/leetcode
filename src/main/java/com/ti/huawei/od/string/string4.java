@@ -1,6 +1,4 @@
-package com.huawei.od.string;
-
-import jdk.nashorn.internal.parser.Scanner;
+package com.ti.huawei.od.string;
 
 import java.util.*;
 import java.util.stream.Collectors;

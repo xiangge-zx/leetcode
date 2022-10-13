@@ -1,4 +1,4 @@
-package com.huawei;
+package com.ti.huawei.od.aaa20210418;
 
 import java.util.ArrayList;
 import java.util.Scanner;

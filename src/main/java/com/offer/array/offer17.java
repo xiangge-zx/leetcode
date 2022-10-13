@@ -1,4 +1,4 @@
-package array;
+package com.offer.array;
 
 import java.util.ArrayList;
 import java.util.List;

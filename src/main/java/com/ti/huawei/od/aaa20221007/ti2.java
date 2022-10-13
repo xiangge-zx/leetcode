@@ -1,4 +1,4 @@
-package com.odtest;
+package com.ti.huawei.od.aaa20221007;
 
 import java.util.Stack;
 import java.util.Scanner;

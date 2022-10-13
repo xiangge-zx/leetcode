@@ -1,6 +1,5 @@
-package com.huawei;
+package com.ti.huawei.od.aaa20210418;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ti1_20210418 {
