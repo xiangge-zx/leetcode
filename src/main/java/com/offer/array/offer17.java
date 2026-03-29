@@ -1,6 +1,7 @@
 package com.offer.array;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -13,7 +14,7 @@ public class offer17 {
     public static void main(String[] args) {
         int n = 3;
         int[] numbers = printNumbers(n);
-        System.out.println(numbers);
+        System.out.println(Arrays.stream(numbers));
     }
 
 
